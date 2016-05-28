@@ -9,4 +9,6 @@
     <string name="login_password_hint">请输入您的登陆密码</string>
     <string name="autologin">自动登陆</string>
     <string name="forgot_pwd">点击找回</string>
+    <string name="registering">正在注册</string>
+    <string name="please_wait">请稍候</string>
 </resources>
